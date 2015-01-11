@@ -1,0 +1,10 @@
+{
+  "name": "dragtable",
+  "main": "dragtable.js",
+  "version": "0.0.0",
+  "keywords": [
+    "drag"
+  ],
+  "_source": "git://github.com/Modernizr/Modernizr.git",
+  "license": "MIT"
+}
