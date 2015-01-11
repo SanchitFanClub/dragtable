@@ -5,6 +5,9 @@
   "keywords": [
     "drag"
   ],
-  "_source": "git://github.com/SanchitFanClub/dragtable.git",
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/SanchitFanClub/dragtable.git"
+	},
   "license": "MIT"
 }
